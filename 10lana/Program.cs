@@ -14,7 +14,13 @@ namespace _10lana
             int b = 6;
             int c = 7;
             Console.WriteLine(a + b + c);
-            
+
+            int d = 10;
+            int e = 11;
+            Console.WriteLine(d + e);
+
+
+            Console.WriteLine("конец");
         }
     }
 }
